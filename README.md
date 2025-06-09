@@ -1,5 +1,3 @@
-
-````markdown
 # Flutter Implicit Animation Demo
 
 This Flutter project demonstrates the use of **implicit animations** with the `AnimatedContainer` widget. It shows how smooth transitions can improve user experience by visually responding to interactions.
